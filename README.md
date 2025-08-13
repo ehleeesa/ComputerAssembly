@@ -1,10 +1,10 @@
 This group project was made using Java (Maven), CSS and it captures a production management system for a computer assembly company, offering clients three types of services: purchasing pre-assembled electronic systems, building desktop PCs from provided parts, and the option to send a product for servicing. Each team member performed tests for the implemented code, captured in a class named after each of them, preceded by the word 'Test' and had to incorporate a UML diagram (individually), corresponding to the system's structure.
 
-gantt
+<img width="1652" height="735" alt="gantt" src="https://github.com/user-attachments/assets/4d1b7f6a-1c83-43d9-a5af-c1e742aec346" />
 
 The diagram, made using Visual Paradigm, systematically outlines the flow of activities and responsibilities within the computer assembly company, highlighting the roles of managers, employees, and customers, as well as the process of handling orders and promotions.
 
-Screenshot_42
+<img width="1658" height="357" alt="proj" src="https://github.com/user-attachments/assets/382bf648-c798-4b64-b75c-547c5ca1abb7" />
 
 (IDE used to develop application and run tests: IntelliJ IDEA)
 
